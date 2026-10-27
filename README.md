@@ -1,19 +1,23 @@
 
 <div align="center">
 
-# 👋 Hi! I'm Daniel Quintero Diaz
+# 👋 Hi! I'm Daniel Quintero Díaz
 
 ### 💻 Full Stack Developer in Training
 
-🎓 **Second-year Web Application Development (DAW) Student** · **IES Alixar**  
-📍 **Castilleja de la Cuesta, Seville, Spain**  
-🚀 **Looking for a company to complete my internship**
+🎓 DAW Student at IES Alixar
 
-[![GitHub](https://img.shields.io/badge/GitHub-Danielqd07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielqd07)
+📍 Seville, Spain
 
-</div>
+🚀 Looking for an Internship
 
 ---
+
+### 🛠️ My Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap,php,symfony,mysql,git,github,docker&perline=7" />
+
+</div>
 
 ## 👨‍💻 About Me
 
