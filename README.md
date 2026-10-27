@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img src="./banner.png" alt="Daniel Quintero Díaz - Full Stack Developer" width="100%" />
-</div>
-<div align="center">
-
 # 👋 Hi! I'm Daniel Quintero Díaz
 
 ### 💻 Full Stack Developer in Training
