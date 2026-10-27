@@ -11,12 +11,6 @@
 
 🚀 Looking for an Internship
 
----
-
-### 🛠️ My Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap,php,symfony,mysql,git,github,docker&perline=7" />
-
 </div>
 
 ## 👨‍💻 About Me
@@ -99,6 +93,11 @@ An academic project for **basic ticket management** using CRUD operations. It wa
 I want to improve my **frontend and backend development skills**, take part in real projects, and learn good development practices while working with a professional team.
 
 I'm currently **looking for a company where I can complete my second-year DAW internship**. I'm motivated, committed, and ready to learn and improve as a developer.
+<div>
+  ### 🛠️ My Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap,php,symfony,mysql,git,github,docker&perline=7" />
+</div>
 
 ## 🔗 Links
 
