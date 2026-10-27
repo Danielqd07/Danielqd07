@@ -1,12 +1,13 @@
+
 <div align="center">
 
-# 👋 ¡Hola! Soy Daniel Quintero Diaz
+# 👋 Hi! I'm Daniel Quintero Diaz
 
-### 💻 Desarrollador Full Stack en formación
+### 💻 Full Stack Developer in Training
 
-🎓 **2.º de Desarrollo de Aplicaciones Web (DAW)** · **IES Alixar**  
-📍 **Castilleja de la Cuesta, Sevilla**  
-🚀 **Buscando una empresa donde realizar mis prácticas**
+🎓 **Second-year Web Application Development (DAW) Student** · **IES Alixar**  
+📍 **Castilleja de la Cuesta, Seville, Spain**  
+🚀 **Looking for a company to complete my internship**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Danielqd07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Danielqd07)
 
@@ -14,17 +15,17 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Daniel Quintero Diaz**, estudiante de segundo curso del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web** en el **IES Alixar**.
+I'm **Daniel Quintero Diaz**, a second-year student of the **Higher Vocational Training Programme in Web Application Development (DAW)** at **IES Alixar**.
 
-Me interesa especialmente el **desarrollo Full Stack**: crear interfaces web, desarrollar la lógica del servidor y conectar aplicaciones con bases de datos y servicios mediante **APIs REST**.
+I'm especially interested in **Full Stack Development**: building web interfaces, developing server-side logic, and connecting applications to databases and services using **REST APIs**.
 
-Durante mi formación he adquirido conocimientos de distintas tecnologías de frontend y backend, así como herramientas de desarrollo, control de versiones y trabajo desde terminal. Me gusta **resolver problemas, aprender nuevas tecnologías y trabajar en equipo**.
+During my studies, I have gained knowledge of different frontend and backend technologies, as well as development tools, version control, and working with the terminal. I enjoy **solving problems, learning new technologies, and working in a team**.
 
-Actualmente busco una oportunidad para **realizar mis prácticas en una empresa del sector tecnológico**, aplicar lo aprendido y seguir creciendo como desarrollador.
+I'm currently looking for an opportunity to **complete my internship at a technology company**, put my knowledge into practice, and continue improving my skills as a developer.
 
-## 🛠️ Tecnologías y conocimientos
+## 🛠️ Technologies and Skills
 
 ### 🎨 Frontend
 
@@ -43,14 +44,14 @@ Actualmente busco una oportunidad para **realizar mis prácticas en una empresa 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-475569?style=flat-square)
 ![Servlets](https://img.shields.io/badge/Java_Servlets-475569?style=flat-square)
-![REST API](https://img.shields.io/badge/APIs_REST-0F766E?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 
 ![SQL](https://img.shields.io/badge/SQL-34495E?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔧 Herramientas y entornos
+### 🔧 Tools and Development Environments
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -58,53 +59,53 @@ Actualmente busco una oportunidad para **realizar mis prácticas en una empresa 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_25-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-**Otros conocimientos:** programación orientada a objetos, arquitectura cliente-servidor, control de versiones, terminal de Linux, integración de APIs REST, testing y depuración.
+**Other skills:** Object-oriented programming, client-server architecture, version control, Linux terminal, REST API integration, testing, and debugging.
 
-## 🚀 Proyectos académicos destacados
+## 🚀 Featured Academic Projects
 
-### 👥 [CRUD de usuarios — Java Servlets](https://github.com/Danielqd07/dwese-user-crud-servlet-dqd)
+### 👥 [User CRUD — Java Servlets](https://github.com/Danielqd07/dwese-user-crud-servlet-dqd)
 
-Proyecto académico de **gestión de usuarios** mediante operaciones CRUD (crear, consultar, actualizar y eliminar), realizado para practicar el desarrollo web con **Java y Servlets**.
+An academic project focused on **user management** using CRUD operations (create, read, update, and delete). It was developed to practise web development with **Java and Servlets**.
 
-**Tecnologías principales:** Java · Servlets
+**Main technologies:** Java · Servlets
 
-🔗 **[Ver repositorio y código fuente](https://github.com/Danielqd07/dwese-user-crud-servlet-dqd)**
+🔗 **[View Repository and Source Code](https://github.com/Danielqd07/dwese-user-crud-servlet-dqd)**
 
 ### 🎫 [Ticket Logger — Java Servlets](https://github.com/Danielqd07/dwese2526-ticket-logger-servlet-dqd)
 
-Proyecto académico de **gestión básica de tickets** mediante operaciones CRUD, orientado a afianzar los conocimientos de aplicaciones web desarrolladas con **Java y Servlets**.
+An academic project for **basic ticket management** using CRUD operations. It was created to improve my knowledge of web applications developed with **Java and Servlets**.
 
-**Tecnologías principales:** Java · Servlets
+**Main technologies:** Java · Servlets
 
-🔗 **[Ver repositorio y código fuente](https://github.com/Danielqd07/dwese2526-ticket-logger-servlet-dqd)**
+🔗 **[View Repository and Source Code](https://github.com/Danielqd07/dwese2526-ticket-logger-servlet-dqd)**
 
-> Estos repositorios forman parte de mi aprendizaje y muestran mi progreso durante el ciclo de DAW.
+> These repositories are part of my learning process and show my progress during my Web Application Development studies.
 
-## 🤝 Habilidades y forma de trabajar
+## 🤝 Soft Skills and Teamwork
 
-- **Resolución de problemas** y pensamiento lógico.
-- **Creatividad** e iniciativa para buscar soluciones.
-- **Trabajo en equipo** y comunicación.
-- Conocimientos de metodologías **Agile y Scrum**.
-- **Organización, responsabilidad y capacidad de adaptación**.
-- **Aprendizaje continuo** y atención al detalle.
+- **Problem-solving** and logical thinking.
+- **Creativity** and initiative to find solutions.
+- **Teamwork** and communication.
+- Basic knowledge of **Agile and Scrum** methodologies.
+- **Organisation, responsibility, and adaptability**.
+- **Continuous learning** and attention to detail.
 
-## 🎯 Objetivos profesionales
+## 🎯 Career Goals
 
-Quiero consolidar mis conocimientos de **frontend y backend**, participar en proyectos reales y aprender buenas prácticas de desarrollo junto a un equipo profesional.
+I want to improve my **frontend and backend development skills**, take part in real projects, and learn good development practices while working with a professional team.
 
-Estoy **buscando una empresa donde realizar mis prácticas de 2.º de DAW** y aportar compromiso, motivación y ganas de seguir mejorando.
+I'm currently **looking for a company where I can complete my second-year DAW internship**. I'm motivated, committed, and ready to learn and improve as a developer.
 
-## 🔗 Enlaces
+## 🔗 Links
 
 - **GitHub:** [github.com/Danielqd07](https://github.com/Danielqd07)
 
-<!-- Cuando tengas un correo profesional o un perfil de LinkedIn, puedes añadirlos aquí. -->
+<!-- You can add your professional email or LinkedIn profile here in the future. -->
 
 ---
 
 <div align="center">
 
-*Gracias por visitar mi perfil. ¡Seguimos aprendiendo y construyendo! 🚀*
+*Thanks for visiting my profile. Let's keep learning and building! 🚀*
 
 </div>
